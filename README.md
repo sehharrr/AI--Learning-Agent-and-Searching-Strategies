@@ -1,4 +1,4 @@
-# AI--Leraning-Agent-and-Searching-Strategies
+# AI--Learning-Agent-and-Searching-Strategies
 
 ## Project Description
 
